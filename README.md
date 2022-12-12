@@ -44,31 +44,55 @@ We will also then utilize this data to complete predictions for the future.
 We plan to use Jupyter notebooks for coding and import the following libraries:
 
 import pandas as pd
+
 import numpy as np
+
 import matplotlib.pyplot as plt
+
 import seaborn as sns
+
 import plotly.express as px
+
 import plotly.graph_objects as go
+
 from plotly.subplots import make_subplots
+
 import os
+
 import random
+
 from contextlib import contextmanager
+
 from time import time
+
 from tqdm import tqdm
+
 import lightgbm as lgbm
+
 from sklearn.metrics import classification_report, log_loss, accuracy_score
+
 from sklearn.metrics import mean_squared_error
+
 from sklearn.model_selection import KFold
+
 from sklearn.model_selection import train_test_split
+
 from sklearn.linear_model import LinearRegression
+
 from sklearn.preprocessing import LabelEncoder
+
 from sklearn.preprocessing import StandardScaler
+
 from sklearn.decomposition import PCA
+
 from sklearn.manifold import TSNE
+
 from sklearn.cluster import KMeans
+
 import warnings
+
 warnings.filterwarnings('ignore')
 
-Further to this we would then be looking to host these visualizations on Tableau Public 
+Further to this we then hosted these visualizations on Tableau Public 
 
 
