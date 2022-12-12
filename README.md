@@ -1,6 +1,6 @@
 # Project4_Spotify-Data
 
-Caroline Badocha, Robbie Hockley, Matthew Ford & Angela Alexander Smith.
+Caroline Badocha, Robbie Hockley & Angela Alexander Smith.
 
 Project Proposal & Hypothesis:
 Using the following dataset we 🎹 Spotify Tracks Dataset | Kaggle we aim to answer the following questions and provide a range of visualizations:
