@@ -56,7 +56,14 @@ Completed data cleaning and some intial analysis before implementing machine lea
 
 ![image](https://user-images.githubusercontent.com/108265105/207296980-eb78078d-2953-4e3f-b7ba-3d41c46f1888.png)
 
-Further to this we then hosted additional visualizations on Tableau Public available at the following link:
+Further to this we then hosted additional visualizations around the following information : 
+**Popularity vs Genre**
+**Popularity vs Song Duration**
+**Key vs Popularity**
+**Band Popularity looking solely at most popular key**
+**Most Popular Track of the Most Popular Band identified by key** 
+
+On Tableau Public available at the following link:
 https://public.tableau.com/app/profile/robbie4414/viz/Project4visualisationstory/Story1#1
 
 
