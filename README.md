@@ -41,58 +41,22 @@ Using the following dataset we 🎹 Spotify Tracks Dataset | Kaggle we aim to an
 
 We will also then utilize this data to complete predictions for the future.
 ![Some of the most popular artsists of all time](https://www.rollingstone.com/wp-content/uploads/2021/09/RS_500_Great_Songs_1800x1200.jpg?w=1581&h=1054&crop=1)
-We plan to use Jupyter notebooks for coding and import the following libraries:
 
-import pandas as pd
+We used Jupyter notebooks for coding and import the following libraries:
 
-import numpy as np
+![image](https://user-images.githubusercontent.com/108265105/207295904-66f716ce-b6ed-43e1-b7f8-98739cb5ebd2.png)
 
-import matplotlib.pyplot as plt
+Completed data cleaning and some intial analysis before implementing machine learning as per the below:
 
-import seaborn as sns
+![image](https://user-images.githubusercontent.com/108265105/207296476-1a96c7ff-d28c-4595-a0b8-0217296cd171.png)
 
-import plotly.express as px
+![image](https://user-images.githubusercontent.com/108265105/207296632-4cadf8f9-c81f-40f4-a619-33c7ded46aa2.png)
 
-import plotly.graph_objects as go
+![image](https://user-images.githubusercontent.com/108265105/207296854-a19d8bd3-e1ba-46b5-81dd-a913aac1fa46.png)
 
-from plotly.subplots import make_subplots
+![image](https://user-images.githubusercontent.com/108265105/207296980-eb78078d-2953-4e3f-b7ba-3d41c46f1888.png)
 
-import os
-
-import random
-
-from contextlib import contextmanager
-
-from time import time
-
-from tqdm import tqdm
-
-import lightgbm as lgbm
-
-from sklearn.metrics import classification_report, log_loss, accuracy_score
-
-from sklearn.metrics import mean_squared_error
-
-from sklearn.model_selection import KFold
-
-from sklearn.model_selection import train_test_split
-
-from sklearn.linear_model import LinearRegression
-
-from sklearn.preprocessing import LabelEncoder
-
-from sklearn.preprocessing import StandardScaler
-
-from sklearn.decomposition import PCA
-
-from sklearn.manifold import TSNE
-
-from sklearn.cluster import KMeans
-
-import warnings
-
-warnings.filterwarnings('ignore')
-
-Further to this we then hosted these visualizations on Tableau Public 
+Further to this we then hosted additional visualizations on Tableau Public available at the following link:
+https://public.tableau.com/app/profile/robbie4414/viz/Project4visualisationstory/Story1#1
 
 
