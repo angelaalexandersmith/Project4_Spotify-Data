@@ -47,7 +47,15 @@ Using the following dataset we 🎹 Spotify Tracks Dataset | Kaggle we aim to an
 
 ![image](https://user-images.githubusercontent.com/108265105/207295904-66f716ce-b6ed-43e1-b7f8-98739cb5ebd2.png)
 
-## Completed data cleaning and some intial analysis before implementing machine learning as per the below:
+## Completed data cleaning and some intial analysis
+
+![image](https://user-images.githubusercontent.com/108265105/207335436-3363086c-f126-43a3-a71d-397dd957ac94.png)
+
+![image](https://user-images.githubusercontent.com/108265105/207335920-e1d76977-e15c-465a-a76e-20258308f990.png)
+
+![image](https://user-images.githubusercontent.com/108265105/207336506-68155aa3-6934-4c38-82cb-40c7418448e3.png)
+
+## Before implementing machine learning as per the below:
 
 ![image](https://user-images.githubusercontent.com/108265105/207296476-1a96c7ff-d28c-4595-a0b8-0217296cd171.png)
 
