@@ -40,13 +40,14 @@ Using the following dataset we 🎹 Spotify Tracks Dataset | Kaggle we aim to an
 
 
 We will also then utilize this data to complete predictions for the future.
+
 ![Some of the most popular artsists of all time](https://www.rollingstone.com/wp-content/uploads/2021/09/RS_500_Great_Songs_1800x1200.jpg?w=1581&h=1054&crop=1)
 
-We used Jupyter notebooks for coding and import the following libraries:
+## We used Jupyter notebooks for coding and import the following libraries:
 
 ![image](https://user-images.githubusercontent.com/108265105/207295904-66f716ce-b6ed-43e1-b7f8-98739cb5ebd2.png)
 
-Completed data cleaning and some intial analysis before implementing machine learning as per the below:
+## Completed data cleaning and some intial analysis before implementing machine learning as per the below:
 
 ![image](https://user-images.githubusercontent.com/108265105/207296476-1a96c7ff-d28c-4595-a0b8-0217296cd171.png)
 
@@ -56,14 +57,18 @@ Completed data cleaning and some intial analysis before implementing machine lea
 
 ![image](https://user-images.githubusercontent.com/108265105/207296980-eb78078d-2953-4e3f-b7ba-3d41c46f1888.png)
 
-Further to this we then hosted additional visualizations around the following information : 
+## Further to this we then hosted additional visualizations around the following information : 
 **Popularity vs Genre**
+
 **Popularity vs Song Duration**
+
 **Key vs Popularity**
+
 **Band Popularity looking solely at most popular key**
+
 **Most Popular Track of the Most Popular Band identified by key** 
 
-On Tableau Public available at the following link:
+## On Tableau Public available at the following link:
 https://public.tableau.com/app/profile/robbie4414/viz/Project4visualisationstory/Story1#1
 
 
