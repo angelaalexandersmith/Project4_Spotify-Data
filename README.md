@@ -1,28 +1,3 @@
-# This is a heading
-
-## This is a subheading
-
-This is a regular paragraph.
-
-*This text is in italics.*
-
-**This text is in bold.**
-
-[This is a link](https://www.example.com)
-
-![This is an image](https://www.example.com/image.jpg)
-
-> This is a blockquote
-
-- This is a bullet point
-- This is another bullet point
-
-1. This is a numbered list
-2. This is another item in the list
-
-
-
-
 # Project4_Spotify-Data
 
 ## Caroline Badocha, Robbie Hockley & Angela Alexander Smith.
